@@ -68,13 +68,3 @@ $ns at 0.0 "Draw $tcp1 $ng1"
 $ns at 0.0 "Draw $tcp2 $ng2"
 $ns at 10.0 "finish"
 $ns run
-
-
-
-
-
-
-
-
-
-  
